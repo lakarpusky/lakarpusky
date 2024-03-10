@@ -41,6 +41,8 @@
 <br><br>
 <div align="center">
   
-  ## 😂 That's all folks!
+  ### 😂 That's all folks!
+  <br>
+  
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
