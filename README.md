@@ -8,13 +8,17 @@
   <a href="https://twitter.com/lakarpusky">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="profile of Twitter with username lakarpusky" />
   </a>
-</div><br>
+</div><br><br>
 
-<p align="center">Hi there 👋 I'm Grabiel Montero Coello, a Front-End Engineer from Cuba.</p><br>
+<p align="center">Hi there 👋 I'm Grabiel Montero Coello, a Front-End Engineer from Cuba.</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakarpusky&bg_color=transparent&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
-<!-- [![GitHub followers](https://img.shields.io/github/followers/lakarpusky.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/lakarpusky?tab=followers)
-[![Grabiel's github stats](https://github-readme-stats.vercel.app/api?username=lakarpusky&theme=blue-green)](https://github.com/lakarpusky/github-readme-stats)
-[![Grabiel's github streak](https://github-readme-streak-stats.herokuapp.com/?user=lakarpusky&theme=blue-green)](https://github.com/lakarpusky/github-readme-streak-stats) -->
+<br>
+
+| ![Grabiel Montero github stats](https://github-readme-stats.vercel.app/api?username=lakarpusky\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=4) | ![Grabiel Montero GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakarpusky&theme=tokyonight&theme=icegray&border_radius=4) |
+|-|-|
+
+<br><br>
 
 |           | Skills |
 |-----------|-------|
