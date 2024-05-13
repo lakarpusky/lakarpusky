@@ -35,7 +35,7 @@
 
 <div align="center">
   
-  ### 🔥 Check out my [VSCode Extensions](https://howivscode.com/lakarpusky)
+  ### 🔥 [VSCode Extensions](https://howivscode.com/lakarpusky)
 </div>
 
 | Skills |
