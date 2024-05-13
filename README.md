@@ -19,21 +19,19 @@
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakarpusky&bg_color=transparent&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
 <div align="center">
   
+  ### 🔆 Activity
   ![Git Repository Activity](https://repobeats.axiom.co/api/embed/ee84912c18a2070d900dee86627a914aa4a22230.svg "Repobeats analytics image")
 </div>
 <br>
-
-| ![Grabiel Montero github stats](https://github-readme-stats.vercel.app/api?username=lakarpusky\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=4) | ![Grabiel Montero GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakarpusky&theme=tokyonight&theme=icegray&border_radius=4) |
-|-|-|
-
+<!--| ![Grabiel Montero github stats](https://github-readme-stats.vercel.app/api?username=lakarpusky\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=4) | ![Grabiel Montero GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakarpusky&theme=tokyonight&theme=icegray&border_radius=4) |
+|-|-|-->
 <!--![Grabiel Montero github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakarpusky&border_radius=4)-->
-<br><br>
-
 <div align="center">
   <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
-</div><br><br>
+</div>
 
 <div align="center">
   
