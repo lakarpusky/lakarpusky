@@ -21,6 +21,7 @@
   ![Grabiel Montero github followers](https://img.shields.io/github/followers/lakarpusky.svg?style=social&label=Follow&maxAge=2592000)
 </div>
 <p align="center">I'm Grabiel Montero Coello, a Front-End Engineer from Cuba.</p>
+<p align="center"><strong>a.k.a</strong> Gabo • iF3 • Lakarpusky</p>
 
 <br>
 <div align="center">
