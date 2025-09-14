@@ -1,6 +1,6 @@
-> ## Grabiel Montero
-> Frontend Engineer from Cuba, building scalable solutions that ship.
-
+> ## About
+> Frontend Engineer from Cuba, building scalable solutions.
+>
 > [@_akarpusky](https://x.com/_akarpusky)  
 > [gabo.montero89@gmail.com](mailto:gabo.montero89@gmail.com)
 
