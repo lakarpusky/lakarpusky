@@ -6,4 +6,4 @@
 > 🌐 Browsing with Zen  
 > ⚡ Building performant web experiences
 ## 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,vim,nodejs,swift,docker,git,bash,yarn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,vim,nodejs,swift,docker,git,bash)](https://skillicons.dev)
