@@ -1,5 +1,5 @@
 ## <sub>About 👋</sub>
-> ### Frontend Engineer from Cuba. <br> <sub>[Twitter](https://x.com/_akarpusky) • [Gmail](mailto:gabo.montero89@gmail.com)</sub>
+> ### Developer <br> <sub>[Twitter](https://x.com/_akarpusky) • [Gmail](mailto:gabo.montero89@gmail.com)</sub>
 
 > 🎧 Coding to Spotify playlists  
 > 🌐 Browsing with Zen  
