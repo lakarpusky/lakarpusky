@@ -1,7 +1,7 @@
 ## <sub>About 👋</sub>
 ###  
 Software Engineer  
-<b><sub>[x.com](https://x.com/_akarpusky)  &nbsp;  [gmail](mailto:gabo.montero89@gmail.com)</sub></b>  
+<b><sub>[Twitter](https://x.com/_akarpusky)  &nbsp;  [Gmail](mailto:gabo.montero89@gmail.com)  &nbsp;  [!YouTube](https://www.youtube.com/@xCmdPLAY)</sub></b>  
 ###  
 Building products, not just features  
 Architecting web & mobile experiences that scale.
