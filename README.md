@@ -6,5 +6,5 @@ Software Engineer
 Building products, not just features  
 Architecting web & mobile experiences that scale.
 ## Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,jest,vim,nodejs,swift,git)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,swift,react,vim,nodejs,bash,apple)](https://skillicons.dev)  
 <b><sub>🎧 Fueled by Spotify &nbsp; 🌀 Browsing w/ Helium &nbsp; ⚡ Obsessed with performance</sub></b>
